@@ -18,51 +18,51 @@ Each `sec{NN}/` folder contains:
 
 ### Section 1 — Anatomy of a Neural Network
 Build an MLP from first principles (affine transforms, activations, layers), then re-implement it in PyTorch.
-[Student](sec01/cs1090b_sec01_student.ipynb) · [Solutions](sec01/cs1090b_sec01_solutions.ipynb) · [![Open Student in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Harvard-CS1090/2026_CS1090B_public/blob/main/sec01/cs1090b_sec01_student.ipynb)
+[Student](sec01/cs1090b_sec01_student.ipynb) · [Solutions](sec01/cs1090b_sec01_solutions.ipynb) · [![Open Solutions in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Harvard-CS1090/2026_CS1090B_public/blob/main/sec01/cs1090b_sec01_solutions.ipynb)
 
 ### Section 2 — Training Neural Networks
 Regression with neural nets, weight initializers, and optimizers (incl. effect of batch size).
-[Student](sec02/cs1090b_sec02_student.ipynb) · [Solutions](sec02/cs1090b_sec02_solutions.ipynb) · [![Open Student in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Harvard-CS1090/2026_CS1090B_public/blob/main/sec02/cs1090b_sec02_student.ipynb)
+[Student](sec02/cs1090b_sec02_student.ipynb) · [Solutions](sec02/cs1090b_sec02_solutions.ipynb) · [![Open Solutions in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Harvard-CS1090/2026_CS1090B_public/blob/main/sec02/cs1090b_sec02_solutions.ipynb)
 
 ### Section 3 — Regularization
 Early stopping, L1/L2 weight decay, and dropout for regression. *Two variants available — main and alternative.*
-[Student](sec03/cs1090b_sec03_student.ipynb) · [Solutions](sec03/cs1090b_sec03_solutions.ipynb) · [Alternative Student](sec03/cs1090b_sec03_student_alternative.ipynb) · [Alternative Solutions](sec03/cs1090b_sec03_solutions_alternative.ipynb) · [![Open Student in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Harvard-CS1090/2026_CS1090B_public/blob/main/sec03/cs1090b_sec03_student.ipynb)
+[Student](sec03/cs1090b_sec03_student.ipynb) · [Solutions](sec03/cs1090b_sec03_solutions.ipynb) · [Alternative Student](sec03/cs1090b_sec03_student_alternative.ipynb) · [Alternative Solutions](sec03/cs1090b_sec03_solutions_alternative.ipynb) · [![Open Solutions in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Harvard-CS1090/2026_CS1090B_public/blob/main/sec03/cs1090b_sec03_solutions.ipynb)
 
 ### Section 4 — Convolutional Neural Networks
 CNN building blocks (conv, pool, flatten, dropout, GAP), LeNet from scratch, and KMNIST classification.
-[Student](sec04/cs1090b_sec04_student.ipynb) · [Solutions](sec04/cs1090b_sec04_solutions.ipynb) · [![Open Student in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Harvard-CS1090/2026_CS1090B_public/blob/main/sec04/cs1090b_sec04_student.ipynb)
+[Student](sec04/cs1090b_sec04_student.ipynb) · [Solutions](sec04/cs1090b_sec04_solutions.ipynb) · [![Open Solutions in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Harvard-CS1090/2026_CS1090B_public/blob/main/sec04/cs1090b_sec04_solutions.ipynb)
 
 ### Section 5 — SOTA Architectures & Transfer Learning
 Inception, ResNet, and friends from `torchvision`; feature extraction vs. fine-tuning.
-[Student](sec05/cs1090b_sec05_student.ipynb) · [Solutions](sec05/cs1090b_sec05_solutions.ipynb) · [![Open Student in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Harvard-CS1090/2026_CS1090B_public/blob/main/sec05/cs1090b_sec05_student.ipynb)
+[Student](sec05/cs1090b_sec05_student.ipynb) · [Solutions](sec05/cs1090b_sec05_solutions.ipynb) · [![Open Solutions in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Harvard-CS1090/2026_CS1090B_public/blob/main/sec05/cs1090b_sec05_solutions.ipynb)
 
 ### Section 6 — Dimensionality Reduction & Clustering
 PCA, scree plots, explained variance, and k-means; choosing the number of components.
-[Student](sec06/cs1090b_sec06_student.ipynb) · [Solutions](sec06/cs1090b_sec06_solutions.ipynb) · [![Open Student in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Harvard-CS1090/2026_CS1090B_public/blob/main/sec06/cs1090b_sec06_student.ipynb)
+[Student](sec06/cs1090b_sec06_student.ipynb) · [Solutions](sec06/cs1090b_sec06_solutions.ipynb) · [![Open Solutions in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Harvard-CS1090/2026_CS1090B_public/blob/main/sec06/cs1090b_sec06_solutions.ipynb)
 
 ### Section 7 — Autoencoders & Variational Autoencoders
 Convolutional autoencoders, latent-space visualization, and CVAEs for conditional generation.
-[Student](sec07/cs1090b_sec07_student.ipynb) · [Solutions](sec07/cs1090b_sec07_solutions.ipynb) · [![Open Student in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Harvard-CS1090/2026_CS1090B_public/blob/main/sec07/cs1090b_sec07_student.ipynb)
+[Student](sec07/cs1090b_sec07_student.ipynb) · [Solutions](sec07/cs1090b_sec07_solutions.ipynb) · [![Open Solutions in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Harvard-CS1090/2026_CS1090B_public/blob/main/sec07/cs1090b_sec07_solutions.ipynb)
 
 ### Section 8 — Text Preprocessing & Embeddings
 Tokenization, padding, numerical encoding, and feed-forward baselines on IMDB.
-[Student](sec08/cs1090b_sec08_student.ipynb) · [Solutions](sec08/cs1090b_sec08_solutions.ipynb) · [![Open Student in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Harvard-CS1090/2026_CS1090B_public/blob/main/sec08/cs1090b_sec08_student.ipynb)
+[Student](sec08/cs1090b_sec08_student.ipynb) · [Solutions](sec08/cs1090b_sec08_solutions.ipynb) · [![Open Solutions in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Harvard-CS1090/2026_CS1090B_public/blob/main/sec08/cs1090b_sec08_solutions.ipynb)
 
 ### Section 9 — Recurrent Neural Networks
 Vanishing/exploding gradients, GRU, LSTM, bidirectional and deep stacked RNNs on IMDB.
-[Student](sec09/cs1090b_sec09_student.ipynb) · [Solutions](sec09/cs1090b_sec09_solutions.ipynb) · [![Open Student in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Harvard-CS1090/2026_CS1090B_public/blob/main/sec09/cs1090b_sec09_student.ipynb)
+[Student](sec09/cs1090b_sec09_student.ipynb) · [Solutions](sec09/cs1090b_sec09_solutions.ipynb) · [![Open Solutions in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Harvard-CS1090/2026_CS1090B_public/blob/main/sec09/cs1090b_sec09_solutions.ipynb)
 
 ### Section 10 — Hugging Face & BERT Fine-Tuning
 `AutoModel`/`AutoTokenizer`, batch encoding, and fine-tuning BERT for sentence classification.
-[Student](sec10/cs1090b_sec10_student.ipynb) · [Solutions](sec10/cs1090b_sec10_solutions.ipynb) · [![Open Student in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Harvard-CS1090/2026_CS1090B_public/blob/main/sec10/cs1090b_sec10_student.ipynb)
+[Student](sec10/cs1090b_sec10_student.ipynb) · [Solutions](sec10/cs1090b_sec10_solutions.ipynb) · [![Open Solutions in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Harvard-CS1090/2026_CS1090B_public/blob/main/sec10/cs1090b_sec10_solutions.ipynb)
 
 ### Section 11 — Instruction Tuning (SFT)
 Supervised fine-tuning from scratch: chat templates, PyTorch dataset/dataloader, manual training loop, perplexity evaluation.
-[Student](sec11/cs1090b_sec11_student.ipynb) · [Solutions](sec11/cs1090b_sec11_solutions.ipynb) · [![Open Student in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Harvard-CS1090/2026_CS1090B_public/blob/main/sec11/cs1090b_sec11_student.ipynb)
+[Student](sec11/cs1090b_sec11_student.ipynb) · [Solutions](sec11/cs1090b_sec11_solutions.ipynb) · [![Open Solutions in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Harvard-CS1090/2026_CS1090B_public/blob/main/sec11/cs1090b_sec11_solutions.ipynb)
 
 ### Section 12 — Vision Transformers, CLIP & Diffusion
 ViTs and attention-map visualization, zero-shot classification with CLIP, semantic image retrieval, and text-to-image diffusion.
-[Student](sec12/cs1090b_sec12_student.ipynb) · [Solutions](sec12/cs1090b_sec12_solutions.ipynb) · [![Open Student in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Harvard-CS1090/2026_CS1090B_public/blob/main/sec12/cs1090b_sec12_student.ipynb)
+[Student](sec12/cs1090b_sec12_student.ipynb) · [Solutions](sec12/cs1090b_sec12_solutions.ipynb) · [![Open Solutions in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Harvard-CS1090/2026_CS1090B_public/blob/main/sec12/cs1090b_sec12_solutions.ipynb)
 
 ## Running the Notebooks
 
